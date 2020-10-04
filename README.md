@@ -13,6 +13,6 @@ clicks to the buttons. How can you listen to `click` events on all the buttons?
 (Remember exercises 3 and 4?) For debugging purposes, make sure you can get it
 so something is logged to the console whenever a button is clicked.
 3. Great, now you know when clicks happen. What do you want to do when clicks
-happen? Do you want to the number display? Update the operator display? Clear a
+happen? Do you want the number display? Update the operator display? Clear a
 display? The answer to each of those is "sometimes", right? When, then? How do
 you decide what to do?
